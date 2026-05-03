@@ -208,7 +208,7 @@
           p.mb-0 #[b Delitos relacionados con el terrorismo:] acciones violentas o amenazas planificadas para generar terror, desestabilizar instituciones o ejercer presión política, que requieren financiación mediante recursos de origen lícito o ilícito.
     .row.justify-content-center
       .col-lg-10
-        p La diversidad de delitos enumerados pone de manifiesto que el lavado de activos no responde a un fenómeno aislado, sino que actúa como mecanismo transversal que articula múltiples formas de criminalidad organizada. Esta vinculación con distintas actividades ilícitas amplía considerablemente el espectro de riesgo al que se exponen las organizaciones e instituciones financieras, y justifica la necesidad de contar con sistemas de control robustos como el SARLAFT. En el siguiente apartado se analiza el impacto concreto que el lavado de activos genera sobre la economía de los países.    
+        p.mb-0 La diversidad de delitos enumerados pone de manifiesto que el lavado de activos no responde a un fenómeno aislado, sino que actúa como mecanismo transversal que articula múltiples formas de criminalidad organizada. Esta vinculación con distintas actividades ilícitas amplía considerablemente el espectro de riesgo al que se exponen las organizaciones e instituciones financieras, y justifica la necesidad de contar con sistemas de control robustos como el SARLAFT. En el siguiente apartado se analiza el impacto concreto que el lavado de activos genera sobre la economía de los países.    
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")

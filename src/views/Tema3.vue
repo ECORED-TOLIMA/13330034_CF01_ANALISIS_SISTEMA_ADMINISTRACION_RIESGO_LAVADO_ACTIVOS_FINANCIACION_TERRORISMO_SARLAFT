@@ -17,15 +17,15 @@
       .col-lg-7.order-2.order-1
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Donaciones")
-            p recursos entregados voluntariamente bajo apariencia de actos benéficos o religiosos, que encubren la transferencia de fondos hacia organizaciones o individuos vinculados con actividades terroristas.
+            p Recursos entregados voluntariamente bajo apariencia de actos benéficos o religiosos, que encubren la transferencia de fondos hacia organizaciones o individuos vinculados con actividades terroristas.
           .row(numero="2" titulo="Transferencias internacionales")
-            p movimientos de dinero a través de sistemas bancarios o canales alternativos entre diferentes países, que permiten movilizar recursos de forma rápida y dificultando su rastreo por parte de las autoridades.
+            p Movimientos de dinero a través de sistemas bancarios o canales alternativos entre diferentes países, que permiten movilizar recursos de forma rápida y dificultando su rastreo por parte de las autoridades.
           .row(numero="3" titulo="Actividades comerciales")
-            p negocios aparentemente legítimos utilizados para generar ingresos que financian operaciones terroristas, mezclando recursos ilícitos con ganancias reales para otorgarles apariencia de legalidad.
+            p Negocios aparentemente legítimos utilizados para generar ingresos que financian operaciones terroristas, mezclando recursos ilícitos con ganancias reales para otorgarles apariencia de legalidad.
           .row(numero="4" titulo="Organizaciones ficticias")
-            p entidades creadas sin actividad real cuyo único propósito es canalizar y movilizar recursos hacia grupos terroristas, aprovechando vacíos en los sistemas de supervisión y registro.
+            p Entidades creadas sin actividad real cuyo único propósito es canalizar y movilizar recursos hacia grupos terroristas, aprovechando vacíos en los sistemas de supervisión y registro.
           .row(numero="5" titulo="Uso indebido de instituciones financieras")
-            p aprovechamiento de debilidades en los controles internos de entidades financieras para realizar transacciones que permiten mover o transformar fondos destinados a actividades terroristas.
+            p Provechamiento de debilidades en los controles internos de entidades financieras para realizar transacciones que permiten mover o transformar fondos destinados a actividades terroristas.
       .col-lg-3.col-6.mb-4.mb-lg-0.order-1.order-2
         figure
           img(src='@/assets/curso/temas/tema3/img2.png', alt='')
@@ -298,10 +298,9 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img23.svg', alt='Diagrama que ilustra cómo la colaboración conjunta previene este delito. En el proceso, los gobiernos establecen políticas, las organizaciones implementan medidas, los organismos internacionales coordinan esfuerzos globales y el sistema SARLAFT aporta herramientas de control. Toda esta red colaborativa tiene como propósito final asegurar la protección económica, salvaguardando la estabilidad financiera, y promover el bienestar social, garantizando la seguridad de la sociedad. ')
         .d-block.d-lg-none
-          p Diagrama secuencial con cuatro etapas que ilustra el proceso del lavado de activos: la realización de transacciones financieras para encubrir la procedencia ilícita de los recursos, el empleo de mecanismos de ocultamiento mediante transferencias bancarias, adquisición de bienes e intermediarios, la fragmentación de operaciones en montos menores para evitar su detección y la dificultad deliberada del seguimiento del dinero por parte de las entidades de supervisión financiera. 
           figure
-            img(src='@/assets/curso/temas/tema3/img23_1.svg', alt='Matriz RACI para dispositivos móviles')
-    .row.align-items-center.mb-4
+            img(src='@/assets/curso/temas/tema3/img23_1.svg', alt='Diagrama secuencial con cuatro etapas que ilustra el proceso del lavado de activos: la realización de transacciones financieras para encubrir la procedencia ilícita de los recursos, el empleo de mecanismos de ocultamiento mediante transferencias bancarias, adquisición de bienes e intermediarios, la fragmentación de operaciones en montos menores para evitar su detección y la dificultad deliberada del seguimiento del dinero por parte de las entidades de supervisión financiera. ')
+    .row.align-items-center
       .col-lg-10
         p.mb-0 En este contexto, la prevención de la financiación del terrorismo se convierte en una responsabilidad compartida entre los gobiernos, las organizaciones y los organismos internacionales. La implementación de mecanismos de control y supervisión, como el sistema SARLAFT, permite fortalecer las estrategias de prevención, reducir los riesgos asociados a estas actividades y contribuir a la protección de la economía y del bienestar de la sociedad.
       .col-lg-auto.d-none.d-lg-block

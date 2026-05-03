@@ -1,23 +1,24 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 50%
+    right: 90%
+    width: 20%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 81%
+    right: 20%
   &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 31%
-    right: 60%
+    top: 35%
+    right: 10%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(40px)
   100%
     transform: translateY(0px)
   
@@ -72,6 +73,26 @@
   margin-inline: -3rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+.BGINTRO04
+  background: #ffffff
+  background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(255, 217, 199, 1) 50%, rgba(255, 255, 255, 1) 100%)
+  background-image: url("../assets/curso/temas/tema6/imgfondo6.png") // Tu imagen de fondo
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BGINTRO05
+  background: #ffffff
+  background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(255, 217, 199, 1) 50%, rgba(255, 255, 255, 1) 100%)
+  background-image: url("../assets/curso/temas/tema6/imgfondo66.png") // Tu imagen de fondo
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
 
 .BG01
   background-image: url("../assets/curso/temas/intro/imgfondo1.svg") !important
@@ -87,7 +108,9 @@
   background-position: center
   background-size: cover
   background-repeat: no-repeat
-  padding: 3rem !important // Aire para que se vea el fondo alrededor
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 
 // 2. EL CONTENEDOR BLANCO (Dentro del row)
 // Esta es la clase que pusimos en el .pug
@@ -116,7 +139,7 @@
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
 .fondo-1
-  //background-image: url("../assets/curso/temas/tema3/Trazado 998176.svg") !important
+  background-image: url("../assets/curso/temas/tema6/imgfondotarjeta.png") !important
   background-color: #FA996C
   background-size: cover
 
@@ -129,7 +152,7 @@
 
 .bt01
   background-color: #FEE0D2
-.tarjeta.bt02
+.bt02
   background-color: #F1F5DD
 .tarjeta.bt03
   background-color: #fff
@@ -217,16 +240,14 @@
   &.crd--grayGrad
     padding: 2rem
     height: 100%
-    background-color: #F6F6F6
-    border-radius: 15px    
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    background-color: #D5D7FA
+    border-radius: 15px 
     &:hover      
-      background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+      background-color: #F1F5DD
       h4, p
-        color: white 
       .bottomCircle
         &::before
-          background-color: #FED981
+          background-color: #CFDE90
   &.crd--blue
     background-color: #B1DBEA
 
@@ -235,6 +256,9 @@
     border-radius: 20px
 
 .bottomCircle
+  img
+    max-width: 60%
+    margin: 45px
   position: relative
   & > *
     position: relative
@@ -244,10 +268,14 @@
     top: 50%
     left: 50%
     transform: translate(-50%,-50%)
-    width: 115px
-    height: 115px
-    background-color: #116EB9
+    width: 170px
+    height: 170px
+    background-color: #2F3AE6
     border-radius: 999px
+  @media (max-width: 1000px)
+    img
+      max-width: 45%
+      margin: 86px
 
 .crd--avatarHorizontal
   position: relative
@@ -288,6 +316,7 @@
   z-index: 1
   @media (max-width: 1000px)
     display: none
+
 //Listas
 .lista-ul li, ol.lista-ol li, .lista-ul--color li, ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, li i.lista-ul__vineta.lista-ol--cuadro__vineta
   display: flex
@@ -326,3 +355,10 @@ table thead
 .tabs-c
   border-bottom: 1px solid #ffffff
   background-color: #FFF1E5
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+  color:#fff
+
+.lista-ol--cuadro__vineta
+  color: #000

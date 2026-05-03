@@ -9,7 +9,7 @@
     .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.order-2.order-lg-1
           p El Sistema de Administración del Riesgo de Lavado de Activos y de la Financiación del Terrorismo – SARLAFT, es un conjunto de políticas, procedimientos, herramientas y mecanismos adoptados por las organizaciones para prevenir que sus operaciones sean utilizadas para ocultar o movilizar recursos provenientes de actividades ilícitas o para financiar actos terroristas. Este sistema permite a las entidades identificar, medir, controlar y monitorear los riesgos asociados al lavado de activos y a la financiación del terrorismo, garantizando así el cumplimiento de la normativa vigente y la protección de la integridad del sistema financiero.
-          .tarjeta.bt01.border.p-4
+          .bt01.p-4
             p.mb-0 Su implementación constituye un instrumento fundamental dentro de la gestión integral del riesgo en las organizaciones, especialmente en aquellas que desarrollan actividades financieras, comerciales o de manejo de recursos. A través de sus mecanismos de control, las entidades identifican operaciones inusuales o sospechosas, fortalecen el conocimiento del cliente y promueven una cultura organizacional basada en la transparencia y la legalidad, contribuyendo así a evitar que sus operaciones sean utilizadas como medios para la realización de actividades ilícitas.
         .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
           figure
@@ -17,18 +17,18 @@
     .bloque-texto-gg.tarjeta.bt02.mb-4
       .bloque-texto-gg__texto.p-4
         .row
-            .col-lg-auto.d-none.d-lg-block.mb-2
+            .col-lg-auto.d-none.d-lg-block.mb-4
               figure
-                img(src='@/assets/curso/temas/tema1/img3.svg', width='180', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img3.svg', style="width:100px", alt='Texto que describa la imagen')
             .col-lg-12
               p.mb-0 En el contexto colombiano, su supervisión recae en la Superintendencia Financiera de Colombia, organismo que verifica que las organizaciones cuenten con controles efectivos para prevenir estas actividades ilícitas y que aplica medidas correctivas cuando se detectan deficiencias. Su implementación se fundamenta en un doble soporte normativo con leyes y circulares nacionales, complementadas con estándares internacionales que garantizan la coherencia del sistema frente a los compromisos del país ante la comunidad global. Más allá del cumplimiento legal, las organizaciones que aplican el sistema con rigor reducen su exposición a sanciones e investigaciones, y proyectan ante clientes, usuarios e inversionistas una imagen de solidez y transparencia que se traduce en relaciones comerciales estables y en un posicionamiento favorable ante las autoridades regulatorias.
       .bloque-texto-gg__img(
       :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img2.png')})`}"
       )
-    .row.justify-content-center.align-items-center.mb-4
+    .row.align-items-center.mb-4
       .col-lg-auto.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/intro/img4.svg', width='180', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/intro/img4.svg', style="width:100px", alt='Texto que describa la imagen')
       .col-lg-10
         p.mb-0 El sistema opera dentro de un entramado institucional que define cómo se supervisa, bajo qué normas se rige y qué efectos genera su correcta aplicación en las organizaciones. A continuación, se presentan cuatro dimensiones clave para comprender el alcance del sistema en el contexto colombiano:
 
@@ -75,8 +75,8 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 El sistema de administración del riesgo de lavado de activos y financiación del terrorismo (LA/FT) se define como un conjunto organizado de políticas, procedimientos, controles y herramientas que permiten a las organizaciones prevenir que sus operaciones sean utilizadas para dar apariencia de legalidad a recursos provenientes de actividades ilícitas o para financiar actividades relacionadas con el terrorismo. Este sistema se fundamenta en la identificación y gestión de riesgos asociados a este tipo de delitos, con el propósito de proteger la integridad de las organizaciones y del sistema financiero.
     p La administración del riesgo LA/FT implica la aplicación de un proceso continuo mediante el cual las organizaciones identifican las posibles amenazas relacionadas con el lavado de activos y la financiación del terrorismo, evalúan su impacto y probabilidad de ocurrencia, y establecen mecanismos de control que permitan mitigarlas. Este proceso permite fortalecer los sistemas internos de control y garantizar que las actividades desarrolladas por la organización se realicen en cumplimiento de las normas legales y regulatorias vigentes.
-    .BGINTRO02.px-5.mb-4
-      .row.justify-content-center.align-items-center.mb-4
+    .BGINTRO02.px-5
+      .row.mb-4
         .col-lg-9.order-2.order-lg-1
           p.mb-4 El sistema también promueve la adopción de buenas prácticas orientadas a fortalecer la transparencia en las operaciones financieras y comerciales. Entre estas prácticas se destacan cuatro acciones fundamentales que las organizaciones deben implementar para prevenir y detectar actividades relacionadas con el lavado de activos y la financiación del terrorismo:
           .tarjeta.bt02.p-4
