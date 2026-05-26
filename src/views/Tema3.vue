@@ -11,7 +11,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img1.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Los impactos señalados evidencian que el lavado de activos no constituye un delito de consecuencias exclusivamente financieras, sino que compromete la estabilidad institucional, social y económica de los países en su conjunto. Ante la magnitud de estos efectos, resulta indispensable que las organizaciones adopten mecanismos efectivos de prevención y control que permitan detectar y mitigar oportunamente los riesgos asociados a este fenómeno. Con este propósito, el siguiente apartado aborda la financiación del terrorismo, actividad ilícita estrechamente vinculada al lavado de activos y que, junto con este, constituye el eje central del sistema de administración del riesgo en las organizaciones.
+          p.mb-0 La financiación del terrorismo se refiere al conjunto de actividades mediante las cuales se obtienen, recolectan o canalizan recursos económicos con el propósito de apoyar o facilitar la realización de actos terroristas. Estos recursos pueden provenir tanto de actividades ilícitas como de fuentes aparentemente legales, y son utilizados para financiar operaciones, adquirir materiales, apoyar a organizaciones terroristas o desarrollar actividades que atenten contra la seguridad y el orden público.
     p.mb-4 Las organizaciones terroristas recurren a diferentes mecanismos financieros para obtener y movilizar recursos, con el propósito de ocultar su destino final y eludir los controles de las autoridades de supervisión financiera. A continuación, se presentan los principales mecanismos utilizados con este fin:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-2.order-1
@@ -171,7 +171,7 @@
           .tarjeta.bg-white.p-4.custom-audio-card
             TarjetaAudio.color-acento-botones(
               texto="Naturaleza y alcance de la financiación del terrorismo"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/podcast.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

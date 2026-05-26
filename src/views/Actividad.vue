@@ -368,7 +368,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Estrategia comercial',
+              texto: 'Estrategia comercial.',
               esCorrecta: false,
             },
             {

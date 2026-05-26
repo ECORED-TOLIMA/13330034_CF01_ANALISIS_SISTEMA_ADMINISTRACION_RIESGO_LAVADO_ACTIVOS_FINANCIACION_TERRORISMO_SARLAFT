@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p El Sistema de SARLAFT, constituye un conjunto de mecanismos orientados a prevenir que las organizaciones sean utilizadas para ocultar recursos de origen ilícito o para financiar actividades relacionadas con el terrorismo. A lo largo de los contenidos se analizan el concepto del sistema, el lavado de activos, la financiación del terrorismo y la normatividad aplicable, como elementos interrelacionados que permiten comprender los riesgos a los que se exponen las organizaciones cuando no cuentan con controles adecuados. El conocimiento y la aplicación de estos fundamentos contribuyen a fortalecer los sistemas de prevención, garantizar el cumplimiento
+    p El Sistema de SARLAFT, constituye un conjunto de mecanismos orientados a prevenir que las organizaciones sean utilizadas para ocultar recursos de origen ilícito o para financiar actividades relacionadas con el terrorismo. A lo largo de los contenidos se analizan el concepto del sistema, el lavado de activos, la financiación del terrorismo y la normatividad aplicable, como elementos interrelacionados que permiten comprender los riesgos a los que se exponen las organizaciones cuando no cuentan con controles adecuados. El conocimiento y la aplicación de estos fundamentos contribuyen a fortalecer los sistemas de prevención, garantizar el cumplimiento normativo y proteger la integridad de las organizaciones dentro del sistema financiero. A continuación, el mapa conceptual presenta, de manera visual, la organización de los contenidos y la relación entre sus ejes temáticos.
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure

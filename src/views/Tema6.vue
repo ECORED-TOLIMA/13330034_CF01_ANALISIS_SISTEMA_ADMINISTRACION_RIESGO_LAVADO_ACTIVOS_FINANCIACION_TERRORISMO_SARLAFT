@@ -233,7 +233,7 @@
         figure
           img(src='@/assets/curso/temas/tema6/img22.svg', style="width:120px", alt='Texto que describa la imagen')
       .col-lg-10
-        p.mb-0 El sistema opera dentro de un entramado institucional que define cómo se supervisa, bajo qué normas se rige y qué efectos genera su correcta aplicación en las organizaciones. A continuación, se presentan cuatro dimensiones clave para comprender el alcance del sistema en el contexto colombiano:
+        p.mb-0 Asimismo, una adecuada estructura organizacional permite fortalecer los procesos de supervisión y control dentro de la organización. La asignación de responsabilidades a diferentes niveles jerárquicos facilita el seguimiento de las operaciones y la toma de decisiones oportunas frente a posibles situaciones de riesgo. Su implementación coordinada promueve una gestión más eficiente del riesgo y refuerza el compromiso institucional con la prevención de actividades ilícitas.
       .col-lg-1.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema1/img4.svg', style="width:120px", alt='Texto que describa la imagen')
