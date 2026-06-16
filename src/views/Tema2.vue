@@ -140,10 +140,10 @@
       .row.justify-content-center
         .col-lg-10.d-block.d-lg-none
           figure
-              img(src='@/assets/curso/temas/tema2/img10_1.svg', alt='Diagrama secuencial con cuatro etapas que ilustra el proceso del lavado de activos: la realización de transacciones financieras para encubrir la procedencia ilícita de los recursos, el empleo de mecanismos de ocultamiento mediante transferencias bancarias, adquisición de bienes e intermediarios, la fragmentación de operaciones en montos menores para evitar su detección y la dificultad deliberada del seguimiento del dinero por parte de las entidades de supervisión financiera. ')
+              img(src='@/assets/curso/temas/tema2/img10_1.svg', alt='Figura 1. Proceso de lavado de activos. Diagrama secuencial con cuatro etapas que ilustra el proceso del lavado de activos: la realización de transacciones financieras para encubrir la procedencia ilícita de los recursos, el empleo de mecanismos de ocultamiento mediante transferencias bancarias, adquisición de bienes e intermediarios, la fragmentación de operaciones en montos menores para evitar su detección y la dificultad deliberada del seguimiento del dinero por parte de las entidades de supervisión financiera.')
         .col-lg-10.d-none.d-lg-block
           figure
-            img(src='@/assets/curso/temas/tema2/img10.svg', alt='Diagrama secuencial con cuatro etapas que ilustra el proceso del lavado de activos: la realización de transacciones financieras para encubrir la procedencia ilícita de los recursos, el empleo de mecanismos de ocultamiento mediante transferencias bancarias, adquisición de bienes e intermediarios, la fragmentación de operaciones en montos menores para evitar su detección y la dificultad deliberada del seguimiento del dinero por parte de las entidades de supervisión financiera. ')
+            img(src='@/assets/curso/temas/tema2/img10.svg', alt='Figura 1. Proceso de lavado de activos. Diagrama secuencial con cuatro etapas que ilustra el proceso del lavado de activos: la realización de transacciones financieras para encubrir la procedencia ilícita de los recursos, el empleo de mecanismos de ocultamiento mediante transferencias bancarias, adquisición de bienes e intermediarios, la fragmentación de operaciones en montos menores para evitar su detección y la dificultad deliberada del seguimiento del dinero por parte de las entidades de supervisión financiera.')
     .row.justify-content-center.align-items-center
       .col-lg-auto.d-none.d-lg-block
         figure
@@ -162,7 +162,7 @@
           p.mb-0 El lavado de activos suele estar vinculado a diferentes actividades delictivas que generan recursos económicos de origen ilegal. Estas actividades buscan obtener beneficios financieros mediante prácticas ilícitas que posteriormente requieren ser ocultadas o encubiertas para poder introducir el dinero en la economía formal. En este sentido, el lavado de activos funciona como un mecanismo que permite a las organizaciones criminales dar apariencia de legalidad a los recursos obtenidos a través de diversos delitos.
     p En muchos casos, los recursos procedentes de actividades ilícitas se movilizan mediante operaciones financieras complejas que dificultan su seguimiento por parte de las autoridades. Estas operaciones pueden involucrar el uso de múltiples cuentas bancarias, transferencias internacionales, inversiones en bienes o negocios, así como la participación de intermediarios que facilitan la circulación del dinero.
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-9
+      .col-lg-9.order-2.order-lg-1
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-auto.d-none.d-lg-block
             figure
@@ -170,7 +170,7 @@
           .col-lg-10
             p.mb-0 Asimismo, el lavado de activos no se limita a un solo tipo de delito, sino que puede estar asociado a una amplia variedad de actividades criminales que generan ganancias ilícitas. Estas actividades afectan no solo la estabilidad económica de los países, sino también la seguridad y el orden social, ya que muchas de ellas están relacionadas con organizaciones criminales que operan a nivel nacional e internacional. 
         p.mb-0 Entre los principales delitos asociados al lavado de activos se encuentran los siguientes:
-      .col-lg-3
+      .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema2/img13.svg', width='180', alt='Texto que describa la imagen')
           

@@ -76,7 +76,7 @@
           p.mb-0 El sistema de administración del riesgo de lavado de activos y financiación del terrorismo (LA/FT) se define como un conjunto organizado de políticas, procedimientos, controles y herramientas que permiten a las organizaciones prevenir que sus operaciones sean utilizadas para dar apariencia de legalidad a recursos provenientes de actividades ilícitas o para financiar actividades relacionadas con el terrorismo. Este sistema se fundamenta en la identificación y gestión de riesgos asociados a este tipo de delitos, con el propósito de proteger la integridad de las organizaciones y del sistema financiero.
     p La administración del riesgo LA/FT implica la aplicación de un proceso continuo mediante el cual las organizaciones identifican las posibles amenazas relacionadas con el lavado de activos y la financiación del terrorismo, evalúan su impacto y probabilidad de ocurrencia, y establecen mecanismos de control que permitan mitigarlas. Este proceso permite fortalecer los sistemas internos de control y garantizar que las actividades desarrolladas por la organización se realicen en cumplimiento de las normas legales y regulatorias vigentes.
     .BGINTRO02.px-5
-      .row.mb-4
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-9.order-2.order-lg-1
           p.mb-4 El sistema también promueve la adopción de buenas prácticas orientadas a fortalecer la transparencia en las operaciones financieras y comerciales. Entre estas prácticas se destacan cuatro acciones fundamentales que las organizaciones deben implementar para prevenir y detectar actividades relacionadas con el lavado de activos y la financiación del terrorismo:
           .tarjeta.bt02.p-4
@@ -194,7 +194,7 @@
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
               img(src='@/assets/curso/temas/tema1/img18.png', width='180', alt='Texto que describa la imagen')
-    .fondo-slyder.px-5.p-5.mb-2
+    .fondo-slyder.px-5.p-5.mb-4
       .row.justify-content-center
         .col-lg-4.d-none.d-lg-block
           figure(data-aos="zoom-in")
@@ -237,11 +237,11 @@
                   img(src="@/assets/curso/temas/tema1/img25.svg", alt="alt").img100.m-auto
               h5.text-center Cumplir la normativa
               p.text-center.mb-0  Asegurar el cumplimiento de las disposiciones legales vigentes en materia de prevención del LA/FT dentro de la organización.
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+    .row.justify-content-center.align-items-center
+      .col-lg-7.order-2.order-lg-1
         .bt01.p-4
           p El conjunto de objetivos descritos evidencia que el SARLAFT no se limita a una función sancionatoria, sino que constituye una herramienta de gestión proactiva que fortalece la cultura de cumplimiento dentro de las organizaciones y contribuye a la protección del sistema financiero. Comprender el alcance de estos objetivos resulta indispensable para dimensionar la importancia del sistema; por ello, el siguiente apartado profundiza en el concepto de lavado de activos, fenómeno que origina la necesidad de implementar mecanismos de control como el SARLAFT en el ámbito organizacional.
-      .col-lg-3    
+      .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         img(src="@/assets/curso/temas/tema1/img26.png", alt="alt").img100.m-auto  
 
 </template>

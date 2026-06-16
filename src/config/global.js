@@ -269,72 +269,72 @@ export default {
   referencias: [
     {
       referencia:
-        'Congreso de la República de Colombia. (1999). Ley 526 de 1999. Por medio de la cual se crea la Unidad de Información y Análisis Financiero (UIAF) y se dictan otras disposiciones relacionadas con la prevención del lavado de activos.',
+        'Congreso de la República de Colombia. (1999). <em>Ley 526 de 1999. Por medio de la cual se crea la Unidad de Información y Análisis Financiero (UIAF) y se dictan otras disposiciones relacionadas con la prevención del lavado de activos</em>.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2006). Ley 1121 de 2006. Por la cual se dictan normas para la prevención, detección, investigación y sanción de la financiación del terrorismo y otras disposiciones.',
+        'Congreso de la República de Colombia. (2006). <em>Ley 1121 de 2006. Por la cual se dictan normas para la prevención, detección, investigación y sanción de la financiación del terrorismo y otras disposiciones</em>.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2008). Ley 1266 de 2008. Disposiciones generales del habeas data y manejo de la información financiera y crediticia.',
+        'Congreso de la República de Colombia. (2008). <em>Ley 1266 de 2008. Disposiciones generales del habeas data y manejo de la información financiera y crediticia</em>.',
       link: '',
     },
     {
       referencia:
-        'Fondo Monetario Internacional. (2022). Marco para la evaluación de los sistemas de lucha contra el lavado de activos y el financiamiento del terrorismo. FMI.',
+        'Fondo Monetario Internacional. (2022). <em>Marco para la evaluación de los sistemas de lucha contra el lavado de activos y el financiamiento del terrorismo. FMI</em>.',
       link: '',
     },
     {
       referencia:
-        'Grupo de Acción Financiera de Latinoamérica. (2023). Informe de evaluación mutua de Colombia. GAFILAT.',
+        'Grupo de Acción Financiera de Latinoamérica. (2023). <em>Informe de evaluación mutua de Colombia. GAFILAT</em>.',
       link: '',
     },
     {
       referencia:
-        'Grupo de Acción Financiera Internacional. (2012). Las recomendaciones del GAFI: Estándares internacionales sobre la lucha contra el lavado de activos y el financiamiento del terrorismo y la proliferación.',
+        'Grupo de Acción Financiera Internacional. (2012). <em>Las recomendaciones del GAFI: Estándares internacionales sobre la lucha contra el lavado de activos y el financiamiento del terrorismo y la proliferación</em>.',
       link: '',
     },
     {
       referencia:
-        'Grupo de Acción Financiera Internacional. (2012). Recomendaciones del GAFI para la lucha contra el lavado de activos y la financiación del terrorismo.',
+        'Grupo de Acción Financiera Internacional. (2012). <em>Recomendaciones del GAFI para la lucha contra el lavado de activos y la financiación del terrorismo</em>.',
       link: '',
     },
     {
       referencia:
-        'Grupo Egmont. (2023). Principios para el intercambio de información entre unidades de inteligencia financiera. Grupo Egmont.',
+        'Grupo Egmont. (2023). <em>Principios para el intercambio de información entre unidades de inteligencia financiera. Grupo Egmont</em>.',
       link: '',
     },
     {
       referencia:
-        'Naciones Unidas. (1988). Convención de las Naciones Unidas contra el tráfico ilícito de estupefacientes y sustancias sicotrópicas. Oficina de las Naciones Unidas contra la Droga y el Delito.',
+        'Naciones Unidas. (1988). <em>Convención de las Naciones Unidas contra el tráfico ilícito de estupefacientes y sustancias sicotrópicas. Oficina de las Naciones Unidas contra la Droga y el Delito</em>.',
       link: '',
     },
     {
       referencia:
-        'Naciones Unidas. (1999). Convenio internacional para la represión de la financiación del terrorismo. Asamblea General de las Naciones Unidas.',
+        'Naciones Unidas. (1999).<em> Convenio internacional para la represión de la financiación del terrorismo. Asamblea General de las Naciones Unidas</em>.',
       link: '',
     },
     {
       referencia:
-        'Naciones Unidas. (2000). Convención de las Naciones Unidas contra la delincuencia organizada transnacional. Oficina de las Naciones Unidas contra la Droga y el Delito.',
+        'Naciones Unidas. (2000). <em>Convención de las Naciones Unidas contra la delincuencia organizada transnacional. Oficina de las Naciones Unidas contra la Droga y el Delito</em>.',
       link: '',
     },
     {
       referencia:
-        'Superintendencia Financiera de Colombia. (2020). Sistema de Administración del Riesgo de Lavado de Activos y Financiación del Terrorismo (SARLAFT).',
+        'Superintendencia Financiera de Colombia. (2020). <em>Sistema de Administración del Riesgo de Lavado de Activos y Financiación del Terrorismo (SARLAFT)</em>.',
       link: '',
     },
     {
       referencia:
-        'Superintendencia Financiera de Colombia. (2022). Circular Básica Jurídica. Sistema de Administración del Riesgo de Lavado de Activos y Financiación del Terrorismo (SARLAFT).',
+        'Superintendencia Financiera de Colombia. (2022). <em>Circular Básica Jurídica. Sistema de Administración del Riesgo de Lavado de Activos y Financiación del Terrorismo (SARLAFT)</em>.',
       link: '',
     },
     {
       referencia:
-        'Unidad de Información y Análisis Financiero. (2023). Lineamientos para la prevención y detección del lavado de activos y financiación del terrorismo.',
+        'Unidad de Información y Análisis Financiero. (2023). <em>Lineamientos para la prevención y detección del lavado de activos y financiación del terrorismo</em>.',
       link: '',
     },
   ],

@@ -14,7 +14,7 @@
           p.mb-0 La financiación del terrorismo se refiere al conjunto de actividades mediante las cuales se obtienen, recolectan o canalizan recursos económicos con el propósito de apoyar o facilitar la realización de actos terroristas. Estos recursos pueden provenir tanto de actividades ilícitas como de fuentes aparentemente legales, y son utilizados para financiar operaciones, adquirir materiales, apoyar a organizaciones terroristas o desarrollar actividades que atenten contra la seguridad y el orden público.
     p.mb-4 Las organizaciones terroristas recurren a diferentes mecanismos financieros para obtener y movilizar recursos, con el propósito de ocultar su destino final y eludir los controles de las autoridades de supervisión financiera. A continuación, se presentan los principales mecanismos utilizados con este fin:
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-7.order-2.order-1
+      .col-lg-7.order-2.order-lg-1
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Donaciones")
             p Recursos entregados voluntariamente bajo apariencia de actos benéficos o religiosos, que encubren la transferencia de fondos hacia organizaciones o individuos vinculados con actividades terroristas.
@@ -26,7 +26,7 @@
             p Entidades creadas sin actividad real cuyo único propósito es canalizar y movilizar recursos hacia grupos terroristas, aprovechando vacíos en los sistemas de supervisión y registro.
           .row(numero="5" titulo="Uso indebido de instituciones financieras")
             p Provechamiento de debilidades en los controles internos de entidades financieras para realizar transacciones que permiten mover o transformar fondos destinados a actividades terroristas.
-      .col-lg-3.col-6.mb-4.mb-lg-0.order-1.order-2
+      .col-lg-3.col-6.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema3/img2.png', alt='')
     .row.justify-content-center.align-items-center.mb-4
@@ -182,7 +182,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.2 Diferencias entre lavado de activos y financiación del terrorismo
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-9
+      .col-lg-9.order-2.order-lg-1
         p El lavado de activos y la financiación del terrorismo son dos fenómenos que afectan la estabilidad del sistema financiero y la seguridad de los países. Aunque ambos están relacionados con el manejo indebido de recursos financieros y suelen ser abordados conjuntamente en los sistemas de prevención como el SARLAFT, presentan diferencias importantes en cuanto a su origen, propósito y funcionamiento dentro de las actividades ilícitas.
         .row.align-items-center.tarjeta.bt02.p-4
           .col-lg-auto.d-none.d-lg-block
@@ -190,12 +190,12 @@
               img(src='@/assets/curso/temas/tema3/img12.svg', width='180', alt='Texto que describa la imagen')
           .col-lg-10
             p.mb-0 En el caso del lavado de activos, el objetivo principal es ocultar o disimular el origen ilegal de recursos obtenidos a través de diferentes delitos, con el fin de introducirlos en la economía formal y darles apariencia de legalidad. Por el contrario, la financiación del terrorismo se centra en la obtención o movilización de recursos que serán utilizados para apoyar o ejecutar actividades terroristas, independientemente de si el origen de esos recursos es legal o ilegal.
-      .col-lg-3
+      .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2
         figure
               img(src='@/assets/curso/temas/tema3/img13.png', width='180', alt='Texto que describa la imagen')
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3
+      .col-lg-3.col-8.mb-4.mb-lg-0
         figure
               img(src='@/assets/curso/temas/tema3/img14.png', width='180', alt='Texto que describa la imagen')
       .col-lg-9
@@ -239,9 +239,9 @@
         p.text-center.mb-0 Comprender las consecuencias de la financiación del terrorismo permite a las organizaciones actuar con mayor criterio, aplicar controles más efectivos y proteger la estabilidad del sistema financiero.
     .bt07.px-4
       .row.justify-content-center.align-items-center
-        .col-lg-8
+        .col-lg-8.order-2.order-lg-1
           p.mb-0 Más allá de los efectos inmediatos sobre la seguridad, sus repercusiones se extienden al ámbito económico y social de los países, afectando de manera estructural la estabilidad de las instituciones y el bienestar de la población.  A continuación, se analizan dichas consecuencias con el propósito de reconocer la magnitud del impacto que este fenómeno puede generar cuando no existen mecanismos adecuados de control.
-        .col-lg-4
+        .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
           figure
             img(src='@/assets/curso/temas/tema3/img17.svg', width='180', alt='Texto que describa la imagen')
 
@@ -256,27 +256,27 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La financiación del terrorismo no solo representa una amenaza para la seguridad de los países, sino que genera consecuencias de amplio alcance que afectan de manera simultánea el funcionamiento de la economía, la estabilidad de las instituciones y la calidad de vida de la población. Estas repercusiones se extienden más allá de los actos terroristas en sí mismos, pues el solo hecho de que recursos económicos sean destinados a financiar este tipo de actividades genera distorsiones que comprometen la transparencia del sistema financiero y el desarrollo sostenible de los países afectados.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.col-8.mb-4.mb-lg-0.order-2.order-lg-1
          figure
           img(src='@/assets/curso/temas/tema3/img19.png', width='180', alt='Texto que describa la imagen')
-      .col-lg-9
+      .col-lg-9.mb-4.mb-lg-0.order-1.order-lg-2
         p.mb-4 Asimismo, las consecuencias de este fenómeno no se limitan a los países donde se ejecutan los actos terroristas, sino que se proyectan hacia el entorno internacional, afectando las relaciones comerciales, la cooperación entre Estados y la estabilidad de los mercados globales. Por esta razón, los gobiernos, las organizaciones y los organismos internacionales han desarrollado sistemas de prevención y control orientados a detectar, prevenir y sancionar las actividades relacionadas con la financiación del terrorismo, con el propósito de proteger la economía y el bienestar de la sociedad.
         p.mb-0 Tanto las consecuencias económicas como las sociales se manifiestan de formas específicas que es necesario identificar para comprender el verdadero alcance de este fenómeno, tal como se presenta a continuación:
     .BGINTRO03.px-5.p-4
       TabsC.color-acento-botones.mb-4
         .py-3.p-4.py-md-4(titulo="Consecuencias económicas:")
           .row
-            .col-md-6
+            .col-lg-6.col-12.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema3/img20.png', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6
               p.mb-0 La financiación del terrorismo altera los mercados financieros y productivos, desincentiva la inversión extranjera y genera restricciones en el comercio internacional, especialmente en los territorios identificados como de alto riesgo. Estas situaciones comprometen la estabilidad económica y afectan el desarrollo de diferentes sectores productivos del país.
         .py-3.p-4.py-md-4(titulo="Consecuencias sociales:")
           .row
-            .col-md-6
+            .col-lg-6.col-12.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema3/img21.png', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.mb-4.mb-md-0
               p.mb-0 Las consecuencias sociales son igualmente relevantes y afectan de manera directa la vida cotidiana de la población. Las actividades terroristas generan temor, violencia e inestabilidad que debilitan las instituciones, erosionan la confianza de los ciudadanos en el Estado y comprometen la infraestructura pública y el bienestar general de las naciones.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -296,10 +296,10 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema3/img23.svg', alt='Diagrama que ilustra cómo la colaboración conjunta previene este delito. En el proceso, los gobiernos establecen políticas, las organizaciones implementan medidas, los organismos internacionales coordinan esfuerzos globales y el sistema SARLAFT aporta herramientas de control. Toda esta red colaborativa tiene como propósito final asegurar la protección económica, salvaguardando la estabilidad financiera, y promover el bienestar social, garantizando la seguridad de la sociedad. ')
+                img(src='@/assets/curso/temas/tema3/img23.svg', alt='Figura 2. Actores en la prevención del terrorismo. Diagrama que ilustra cómo la colaboración conjunta previene este delito. En el proceso, los gobiernos establecen políticas, las organizaciones implementan medidas, los organismos internacionales coordinan esfuerzos globales y el sistema SARLAFT aporta herramientas de control. Toda esta red colaborativa tiene como propósito final asegurar la protección económica, salvaguardando la estabilidad financiera, y promover el bienestar social, garantizando la seguridad de la sociedad.')
         .d-block.d-lg-none
           figure
-            img(src='@/assets/curso/temas/tema3/img23_1.svg', alt='Diagrama secuencial con cuatro etapas que ilustra el proceso del lavado de activos: la realización de transacciones financieras para encubrir la procedencia ilícita de los recursos, el empleo de mecanismos de ocultamiento mediante transferencias bancarias, adquisición de bienes e intermediarios, la fragmentación de operaciones en montos menores para evitar su detección y la dificultad deliberada del seguimiento del dinero por parte de las entidades de supervisión financiera. ')
+            img(src='@/assets/curso/temas/tema3/img23_1.svg', alt='Figura 2. Actores en la prevención del terrorismo. Diagrama que ilustra cómo la colaboración conjunta previene este delito. En el proceso, los gobiernos establecen políticas, las organizaciones implementan medidas, los organismos internacionales coordinan esfuerzos globales y el sistema SARLAFT aporta herramientas de control. Toda esta red colaborativa tiene como propósito final asegurar la protección económica, salvaguardando la estabilidad financiera, y promover el bienestar social, garantizando la seguridad de la sociedad.')
     .row.align-items-center
       .col-lg-10
         p.mb-0 En este contexto, la prevención de la financiación del terrorismo se convierte en una responsabilidad compartida entre los gobiernos, las organizaciones y los organismos internacionales. La implementación de mecanismos de control y supervisión, como el sistema SARLAFT, permite fortalecer las estrategias de prevención, reducir los riesgos asociados a estas actividades y contribuir a la protección de la economía y del bienestar de la sociedad.

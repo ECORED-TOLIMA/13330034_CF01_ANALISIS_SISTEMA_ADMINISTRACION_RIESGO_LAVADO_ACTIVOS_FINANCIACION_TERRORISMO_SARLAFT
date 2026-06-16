@@ -378,7 +378,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Plan de marketing.',
+              texto: 'Plan de <em>marketing</em>.',
               esCorrecta: false,
             },
           ],

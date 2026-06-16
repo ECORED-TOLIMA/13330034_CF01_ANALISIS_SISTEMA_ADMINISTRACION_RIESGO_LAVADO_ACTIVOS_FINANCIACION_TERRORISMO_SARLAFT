@@ -63,7 +63,7 @@
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 6.1 Políticas de administración del riesgo
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3
+      .col-lg-3.mb-4.mb-lg-0
         figure
               img(src='@/assets/curso/temas/tema6/img4.png', width='180', alt='Texto que describa la imagen')
       .col-lg-9
@@ -106,9 +106,9 @@
             
             p.text-center.mb-0 Actualización periódica de los lineamientos institucionales en respuesta a cambios en la normativa vigente o en el entorno operativo de la entidad.
     .row.justify-content-center.align-items-center
-      .col-lg-7
+      .col-lg-7.order-2.order-lg-1
         p Las acciones descritas evidencian que las políticas de administración del riesgo no constituyen un documento estático, sino un instrumento de gestión que orienta de manera permanente la actuación de la organización. Su correcta implementación fortalece los sistemas de control interno y reduce la probabilidad de que las entidades sean utilizadas para actividades relacionadas con el lavado de activos y la financiación del terrorismo, aspectos que se traducen operativamente en los procedimientos de control desarrollados en el siguiente apartado.
-      .col-lg-3
+      .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src="@/assets/curso/temas/tema6/img14.svg", alt="alt").img90.m-auto
 
@@ -335,7 +335,7 @@
           img(src='@/assets/curso/temas/tema1/img4.svg',style="width:100px", alt='Texto que describa la imagen')
     p.mb-5 Entre algunos mecanismos utilizados por las organizaciones para la divulgación de la información se encuentran:
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-7.order-2.order-lg-2
+      .col-lg-7.order-2.order-lg-1
         LineaTiempoD.color-acento-botones
           .row(numero="A" titulo="Publicación interna")
             p.mb-0 Difusión de políticas y procedimientos a través de los canales institucionales de la organización, garantizando que todos los colaboradores tengan acceso oportuno a la información que regula el sistema.
@@ -349,7 +349,7 @@
             p.mb-0 Mensajes y circulares dirigidos al personal para informar sobre cambios en la normativa, modificaciones en los procedimientos o nuevas disposiciones que afecten la operación del sistema
           .row(numero="F" titulo="Campañas de concientización")
             p.mb-0 Iniciativas institucionales periódicas orientadas a reforzar en los colaboradores la importancia del cumplimiento normativo y la responsabilidad individual frente a la prevención de actividades ilícitas.
-      .col-lg-3.col-8.mb-4.mb-lg-0.order-2.order-lg-2
+      .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema6/img34.png', alt='')
     .row.justify-content-center.align-items-center
@@ -377,10 +377,10 @@
             .col-lg-12
               p.mb-0 Además, la capacitación contribuye a que los colaboradores puedan identificar de manera oportuna situaciones que representen riesgos para la organización. Cuando el personal cuenta con una formación adecuada en temas relacionados con el lavado de activos y la financiación del terrorismo, puede reconocer operaciones inusuales, aplicar los procedimientos de control establecidos y reportar oportunamente cualquier situación que pueda generar una alerta dentro de la entidad.
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-9
+      .col-lg-9.order-2.order-lg-1
         p Del mismo modo, los programas de capacitación deben desarrollarse de forma periódica y adaptarse a las necesidades de cada organización, considerando aspectos como cambios en la normativa, la revisión de procedimientos o la incorporación de nuevas herramientas tecnológicas. Esto permite mantener al personal al día y fortalecer continuamente los mecanismos de prevención y control frente a los riesgos asociados al lavado de activos y la financiación del terrorismo.
         p Entre algunos temas que pueden abordarse en los programas de capacitación del sistema SARLAFT se encuentran:
-      .col-lg-3
+      .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src="@/assets/curso/temas/tema6/img38.svg", alt="alt").img90.m-auto|   
     .row.justify-content-center.align-items-center.mb-4
