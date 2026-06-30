@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1530" height="505" viewBox="0 0 1530 505">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fffbf6"/>
+    </linearGradient>
+  </defs>
+  <g id="imgfondo1" transform="translate(-25.371 -10051)">
+    <path id="Path_998174" data-name="Path 998174" d="M0,0H1328V100.805H0Z" transform="translate(136.371 10126.869)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_455051" data-name="Rectangle 455051" width="1328" height="247" transform="translate(136.371 10228)" fill="#fffbf6"/>
+    <ellipse id="Ellipse_13668" data-name="Ellipse 13668" cx="248" cy="110.5" rx="248" ry="110.5" transform="translate(151.371 10177)" fill="#fff1e5"/>
+    <ellipse id="Ellipse_13670" data-name="Ellipse 13670" cx="45" cy="42.5" rx="45" ry="42.5" transform="translate(233.371 10336)" fill="#fafcf4"/>
+    <ellipse id="Ellipse_13671" data-name="Ellipse 13671" cx="45" cy="42.5" rx="45" ry="42.5" transform="translate(1330.371 10228)" fill="#f1f5dd"/>
+    <ellipse id="Ellipse_13669" data-name="Ellipse 13669" cx="374" cy="110.5" rx="374" ry="110.5" transform="translate(582.371 10215)" fill="#fff5f0"/>
+  </g>
+</svg>
